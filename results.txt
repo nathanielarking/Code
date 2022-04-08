@@ -1,0 +1,1410 @@
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 40 Steel pipe with Discount heat exchanger
+Design unsuccessful. Maximum pressure of system exceeds maximum pressure of pipe by 63.34141769535276m of head
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 40 Steel pipe with Standard heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 40 PVC pipe with Discount heat exchanger
+Design unsuccessful. Maximum pressure of system exceeds maximum pressure of pipe by 63.34141769535276m of head
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 40 PVC pipe with Standard heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 80 Steel pipe with Discount heat exchanger
+Design unsuccessful. Maximum pressure of system exceeds maximum pressure of pipe by 140.17377774826687m of head
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 80 Steel pipe with Standard heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 80 PVC pipe with Discount heat exchanger
+Design unsuccessful. Maximum pressure of system exceeds maximum pressure of pipe by 140.17377774826687m of head
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1 inch schedule 80 PVC pipe with Standard heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1.5 inch schedule 40 Steel pipe with Discount heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1.5 inch schedule 40 PVC pipe with Discount heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1.5 inch schedule 80 Steel pipe with Discount heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 1.5 inch schedule 80 PVC pipe with Discount heat exchanger
+Design unsuccessful. Numerical analysis of slant required to overcome head loss due to friction diverges
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 Steel pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 Steel pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 PVC pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 PVC pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 Steel pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 Steel pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 PVC pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 PVC pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 Steel pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 Steel pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2700.5110015104833m
+Total capital cost: $416302.3776548245
+Total operating cost: $6768.046257806169/hr
+Total lifetime cost over 50 years: $2964820563.2967567
+Total power consumption: 11.750080308691267kW
+Section 1 uses 847.5870333857833m of pipe with the 65/30 3500RPM pump
+Section 2 uses 453.4881697860373m of pipe with the 65/30 3500RPM pump
+Section 3 uses 860.487168976418m of pipe with the 65/30 3500RPM pump
+Section 4 uses 538.9486293622443m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2700.5110015104833m
+Total capital cost: $423802.3776548245
+Total operating cost: $6549.840822895725/hr
+Total lifetime cost over 50 years: $2869254082.805983
+Total power consumption: 11.371251428638411kW
+Section 1 uses 847.5870333857833m of pipe with the 65/30 3500RPM pump
+Section 2 uses 453.4881697860373m of pipe with the 65/30 3500RPM pump
+Section 3 uses 860.487168976418m of pipe with the 65/30 3500RPM pump
+Section 4 uses 538.9486293622443m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2700.5110015104833m
+Total capital cost: $438802.3776548245
+Total operating cost: $6389.823503961401/hr
+Total lifetime cost over 50 years: $2799181497.1127486
+Total power consumption: 11.093443583266321kW
+Section 1 uses 847.5870333857833m of pipe with the 65/30 3500RPM pump
+Section 2 uses 453.4881697860373m of pipe with the 65/30 3500RPM pump
+Section 3 uses 860.487168976418m of pipe with the 65/30 3500RPM pump
+Section 4 uses 538.9486293622443m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 Steel pipe with Discount heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 Steel pipe with Standard heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Design unsuccessful. Head required by pump exceeds that of pumps available at the given flow rate
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2767.547958704619m
+Total capital cost: $568469.9335992159
+Total operating cost: $9871.819611310764/hr
+Total lifetime cost over 50 years: $4324425459.687715
+Total power consumption: 17.13857571408119kW
+Section 1 uses 869.1134682051559m of pipe with the 65/30 3500RPM pump
+Section 2 uses 464.1315564674437m of pipe with the 65/30 3500RPM pump
+Section 3 uses 881.997004825215m of pipe with the 65/30 3500RPM pump
+Section 4 uses 552.3059292068041m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2767.547958704619m
+Total capital cost: $575969.9335992159
+Total operating cost: $9583.546093988085/hr
+Total lifetime cost over 50 years: $4198169159.1003804
+Total power consumption: 16.638100857618202kW
+Section 1 uses 869.1134682051559m of pipe with the 65/30 3500RPM pump
+Section 2 uses 464.1315564674437m of pipe with the 65/30 3500RPM pump
+Section 3 uses 881.997004825215m of pipe with the 65/30 3500RPM pump
+Section 4 uses 552.3059292068041m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 2.5 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2767.547958704619m
+Total capital cost: $590969.9335992159
+Total operating cost: $9372.145514618123/hr
+Total lifetime cost over 50 years: $4105590705.3363366
+Total power consumption: 16.271085962878686kW
+Section 1 uses 869.1134682051559m of pipe with the 65/30 3500RPM pump
+Section 2 uses 464.1315564674437m of pipe with the 65/30 3500RPM pump
+Section 3 uses 881.997004825215m of pipe with the 65/30 3500RPM pump
+Section 4 uses 552.3059292068041m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2688.9019244625697m
+Total capital cost: $435279.2116908827
+Total operating cost: $6015.960455512439/hr
+Total lifetime cost over 50 years: $2635425958.7261386
+Total power consumption: 10.444375790820205kW
+Section 1 uses 842.7891035652809m of pipe with the 65/30 3500RPM pump
+Section 2 uses 451.11282089728854m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2688.9019244625697m
+Total capital cost: $442779.2116908827
+Total operating cost: $5917.667733624841/hr
+Total lifetime cost over 50 years: $2592381246.5393715
+Total power consumption: 10.273728704209793kW
+Section 1 uses 842.7891035652809m of pipe with the 65/30 3500RPM pump
+Section 2 uses 451.11282089728854m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2688.9019244625697m
+Total capital cost: $457779.2116908827
+Total operating cost: $5845.586404240603/hr
+Total lifetime cost over 50 years: $2560824624.269075
+Total power consumption: 10.148587507362157kW
+Section 1 uses 842.7891035652809m of pipe with the 65/30 3500RPM pump
+Section 2 uses 451.11282089728854m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $446430.0
+Total operating cost: $4935.3943244328475/hr
+Total lifetime cost over 50 years: $2162149144.1015873
+Total power consumption: 8.568392924362584kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $453930.0
+Total operating cost: $4837.641672445732/hr
+Total lifetime cost over 50 years: $2119340982.5312304
+Total power consumption: 8.398683459107174kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $468930.0
+Total operating cost: $4765.956394321846/hr
+Total lifetime cost over 50 years: $2087957830.7129683
+Total power consumption: 8.274229851253203kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2740.852571072627m
+Total capital cost: $564332.1485162573
+Total operating cost: $8361.354753144356/hr
+Total lifetime cost over 50 years: $3662837714.025744
+Total power consumption: 14.516240890875615kW
+Section 1 uses 860.5425685223831m of pipe with the 65/30 3500RPM pump
+Section 2 uses 459.8914090767885m of pipe with the 65/30 3500RPM pump
+Section 3 uses 873.4327314245458m of pipe with the 65/30 3500RPM pump
+Section 4 uses 546.9858620489101m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2740.852571072627m
+Total capital cost: $571832.1485162573
+Total operating cost: $8234.443433473025/hr
+Total lifetime cost over 50 years: $3607258056.0097013
+Total power consumption: 14.295908738668446kW
+Section 1 uses 860.5425685223831m of pipe with the 65/30 3500RPM pump
+Section 2 uses 459.8914090767885m of pipe with the 65/30 3500RPM pump
+Section 3 uses 873.4327314245458m of pipe with the 65/30 3500RPM pump
+Section 4 uses 546.9858620489101m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2740.852571072627m
+Total capital cost: $586832.1485162573
+Total operating cost: $8141.3751323807155/hr
+Total lifetime cost over 50 years: $3566509140.131269
+Total power consumption: 14.134331827049852kW
+Section 1 uses 860.5425685223831m of pipe with the 65/30 3500RPM pump
+Section 2 uses 459.8914090767885m of pipe with the 65/30 3500RPM pump
+Section 3 uses 873.4327314245458m of pipe with the 65/30 3500RPM pump
+Section 4 uses 546.9858620489101m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $593060.0
+Total operating cost: $5019.426000789149/hr
+Total lifetime cost over 50 years: $2199101648.3456473
+Total power consumption: 8.71428125137005kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $600560.0
+Total operating cost: $4893.211996061067/hr
+Total lifetime cost over 50 years: $2143827414.2747474
+Total power consumption: 8.495159715383796kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $615560.0
+Total operating cost: $4800.655059260474/hr
+Total lifetime cost over 50 years: $2103302475.9560876
+Total power consumption: 8.334470588993877kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $473090.0
+Total operating cost: $4843.471558626641/hr
+Total lifetime cost over 50 years: $2121913632.6784682
+Total power consumption: 8.40880478928236kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $480590.0
+Total operating cost: $4793.180614178507/hr
+Total lifetime cost over 50 years: $2099893699.010186
+Total power consumption: 8.321494121837686kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $495590.0
+Total operating cost: $4756.300588249876/hr
+Total lifetime cost over 50 years: $2083755247.6534455
+Total power consumption: 8.257466299044923kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $453095.0
+Total operating cost: $4800.48242755016/hr
+Total lifetime cost over 50 years: $2103064398.2669697
+Total power consumption: 8.33417088116347kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $460595.0
+Total operating cost: $4750.191483102024/hr
+Total lifetime cost over 50 years: $2081044464.598687
+Total power consumption: 8.246860213718792kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $475595.0
+Total operating cost: $4713.311457173393/hr
+Total lifetime cost over 50 years: $2064906013.2419462
+Total power consumption: 8.18283239092603kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $599725.0
+Total operating cost: $4897.772500258371/hr
+Total lifetime cost over 50 years: $2145824080.1131666
+Total power consumption: 8.503077257393006kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $607225.0
+Total operating cost: $4833.8591621449605/hr
+Total lifetime cost over 50 years: $2117837538.0194926
+Total power consumption: 8.39211660094611kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $622225.0
+Total operating cost: $4786.989380861793/hr
+Total lifetime cost over 50 years: $2097323573.8174653
+Total power consumption: 8.310745452885056kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $606390.0
+Total operating cost: $4838.412333782274/hr
+Total lifetime cost over 50 years: $2119830992.196636
+Total power consumption: 8.400021412816447kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $613890.0
+Total operating cost: $4774.498995668862/hr
+Total lifetime cost over 50 years: $2091844450.1029618
+Total power consumption: 8.289060756369553kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 3.5 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $628890.0
+Total operating cost: $4727.629214385695/hr
+Total lifetime cost over 50 years: $2071330485.9009347
+Total power consumption: 8.207689608308497kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $486420.0
+Total operating cost: $4761.269181324344/hr
+Total lifetime cost over 50 years: $2085922321.420063
+Total power consumption: 8.266092328688098kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $493920.0
+Total operating cost: $4732.821561937264/hr
+Total lifetime cost over 50 years: $2073469764.1285217
+Total power consumption: 8.216704100585527kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $508920.0
+Total operating cost: $4711.959974386738/hr
+Total lifetime cost over 50 years: $2064347388.7813911
+Total power consumption: 8.180486066643642kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $459760.0
+Total operating cost: $4741.412183649986/hr
+Total lifetime cost over 50 years: $2077198296.4386942
+Total power consumption: 8.231618374392339kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $467260.0
+Total operating cost: $4712.964564262906/hr
+Total lifetime cost over 50 years: $2064745739.1471527
+Total power consumption: 8.182230146289768kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $482260.0
+Total operating cost: $4692.10297671238/hr
+Total lifetime cost over 50 years: $2055623363.8000228
+Total power consumption: 8.146012112347881kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $619720.0
+Total operating cost: $4787.930508409094/hr
+Total lifetime cost over 50 years: $2097733282.6831827
+Total power consumption: 8.3123793548769kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $627220.0
+Total operating cost: $4752.193869841276/hr
+Total lifetime cost over 50 years: $2082088134.990479
+Total power consumption: 8.25033657958555kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $642220.0
+Total operating cost: $4725.987001558211/hr
+Total lifetime cost over 50 years: $2070624526.6824965
+Total power consumption: 8.204838544371894kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $619720.0
+Total operating cost: $4760.847796243412/hr
+Total lifetime cost over 50 years: $2085871054.754614
+Total power consumption: 8.265360757367034kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $627220.0
+Total operating cost: $4725.111157675594/hr
+Total lifetime cost over 50 years: $2070225907.06191
+Total power consumption: 8.203317982075685kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $642220.0
+Total operating cost: $4698.904289392529/hr
+Total lifetime cost over 50 years: $2058762298.753928
+Total power consumption: 8.157819946862029kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $499750.0
+Total operating cost: $4722.305298822572/hr
+Total lifetime cost over 50 years: $2068869470.8842869
+Total power consumption: 8.198446699344744kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $507250.0
+Total operating cost: $4705.027297880442/hr
+Total lifetime cost over 50 years: $2061309206.4716337
+Total power consumption: 8.168450169931324kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $522250.0
+Total operating cost: $4692.3567638562145/hr
+Total lifetime cost over 50 years: $2055774512.569022
+Total power consumption: 8.14645271502815kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $466425.0
+Total operating cost: $4712.299258182551/hr
+Total lifetime cost over 50 years: $2064453500.0839577
+Total power consumption: 8.181075101011375kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $473925.0
+Total operating cost: $4695.021257240422/hr
+Total lifetime cost over 50 years: $2056893235.6713045
+Total power consumption: 8.151078571597955kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $488925.0
+Total operating cost: $4682.350723216193/hr
+Total lifetime cost over 50 years: $2051358541.7686925
+Total power consumption: 8.12908111669478kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $639715.0
+Total operating cost: $4736.776091189883/hr
+Total lifetime cost over 50 years: $2075347642.941169
+Total power consumption: 8.223569602760215kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $647215.0
+Total operating cost: $4715.262291271098/hr
+Total lifetime cost over 50 years: $2065932098.5767407
+Total power consumption: 8.186219255678989kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $662215.0
+Total operating cost: $4699.485504663988/hr
+Total lifetime cost over 50 years: $2059036866.0428264
+Total power consumption: 8.158829001152755kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $633050.0
+Total operating cost: $4723.232577016186/hr
+Total lifetime cost over 50 years: $2069408918.7330892
+Total power consumption: 8.200056557319767kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $640550.0
+Total operating cost: $4701.718777097399/hr
+Total lifetime cost over 50 years: $2059993374.368661
+Total power consumption: 8.162706210238541kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 4.5 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $655550.0
+Total operating cost: $4685.941990490289/hr
+Total lifetime cost over 50 years: $2053098141.8347466
+Total power consumption: 8.135315955712308kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $513080.0
+Total operating cost: $4701.9932278277365/hr
+Total lifetime cost over 50 years: $2059986113.7885487
+Total power consumption: 8.163182687200932kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $520580.0
+Total operating cost: $4690.902286302219/hr
+Total lifetime cost over 50 years: $2055135781.4003718
+Total power consumption: 8.143927580385796kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $535580.0
+Total operating cost: $4682.768929183506/hr
+Total lifetime cost over 50 years: $2051588370.9823756
+Total power consumption: 8.129807168721364kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $473090.0
+Total operating cost: $4696.610667595198/hr
+Total lifetime cost over 50 years: $2057588562.4066968
+Total power consumption: 8.153837964574997kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $480590.0
+Total operating cost: $4685.5197260696805/hr
+Total lifetime cost over 50 years: $2052738230.0185199
+Total power consumption: 8.134582857759861kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $495590.0
+Total operating cost: $4677.386368950967/hr
+Total lifetime cost over 50 years: $2049190819.600524
+Total power consumption: 8.120462446095429kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $659710.0
+Total operating cost: $4710.470764693276/hr
+Total lifetime cost over 50 years: $2063845904.9356546
+Total power consumption: 8.177900633148049kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $667210.0
+Total operating cost: $4696.756881098952/hr
+Total lifetime cost over 50 years: $2057846723.9213417
+Total power consumption: 8.154091807463459kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $682210.0
+Total operating cost: $4686.700033129782/hr
+Total lifetime cost over 50 years: $2053456824.5108445
+Total power consumption: 8.136632001961427kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $646380.0
+Total operating cost: $4703.216970236885/hr
+Total lifetime cost over 50 years: $2060655412.9637551
+Total power consumption: 8.16530723999459kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $653880.0
+Total operating cost: $4689.503086642561/hr
+Total lifetime cost over 50 years: $2054656231.9494417
+Total power consumption: 8.141498414310002kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $668880.0
+Total operating cost: $4679.44623867339/hr
+Total lifetime cost over 50 years: $2050266332.5389447
+Total power consumption: 8.12403860880797kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $526410.0
+Total operating cost: $4690.592044313305/hr
+Total lifetime cost over 50 years: $2055005725.409228
+Total power consumption: 8.14338896582171kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $533910.0
+Total operating cost: $4683.1504264974765/hr
+Total lifetime cost over 50 years: $2051753796.8058944
+Total power consumption: 8.130469490447005kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $548910.0
+Total operating cost: $4677.693240099203/hr
+Total lifetime cost over 50 years: $2049378549.1634505
+Total power consumption: 8.120995208505558kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $479755.0
+Total operating cost: $4687.545811663194/hr
+Total lifetime cost over 50 years: $2053624820.5084794
+Total power consumption: 8.138100367470823kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $487255.0
+Total operating cost: $4680.104193847365/hr
+Total lifetime cost over 50 years: $2050372891.9051461
+Total power consumption: 8.125180892096122kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $502255.0
+Total operating cost: $4674.647007449091/hr
+Total lifetime cost over 50 years: $2047997644.262702
+Total power consumption: 8.115706610154671kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $679705.0
+Total operating cost: $4695.865463221554/hr
+Total lifetime cost over 50 years: $2057468777.8910403
+Total power consumption: 8.152544206981863kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $687205.0
+Total operating cost: $4686.715752559179/hr
+Total lifetime cost over 50 years: $2053468704.6209202
+Total power consumption: 8.136659292637464kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $702205.0
+Total operating cost: $4680.005964740105/hr
+Total lifetime cost over 50 years: $2050544817.5561657
+Total power consumption: 8.12501035545157kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $659710.0
+Total operating cost: $4691.768921409181/hr
+Total lifetime cost over 50 years: $2055654497.577221
+Total power consumption: 8.14543215522427kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $667210.0
+Total operating cost: $4682.619210746806/hr
+Total lifetime cost over 50 years: $2051654424.3071005
+Total power consumption: 8.129547240879871kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 5.5 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $682210.0
+Total operating cost: $4675.909422927731/hr
+Total lifetime cost over 50 years: $2048730537.2423463
+Total power consumption: 8.117898303693977kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $539740.0
+Total operating cost: $4683.803268201688/hr
+Total lifetime cost over 50 years: $2052045571.4723394
+Total power consumption: 8.131602896183486kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $547240.0
+Total operating cost: $4678.626039328266/hr
+Total lifetime cost over 50 years: $2049785445.225781
+Total power consumption: 8.122614651611574kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $562240.0
+Total operating cost: $4674.829404821092/hr
+Total lifetime cost over 50 years: $2048137519.3116384
+Total power consumption: 8.11602327225884kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $486420.0
+Total operating cost: $4682.007749157623/hr
+Total lifetime cost over 50 years: $2051205814.1310384
+Total power consumption: 8.128485675620873kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $493920.0
+Total operating cost: $4676.8305202842/hr
+Total lifetime cost over 50 years: $2048945687.8844795
+Total power consumption: 8.11949743104896kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 40 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $508920.0
+Total operating cost: $4673.033885777025/hr
+Total lifetime cost over 50 years: $2047297761.970337
+Total power consumption: 8.112906051696225kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 Steel pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $699700.0
+Total operating cost: $4687.245746930085/hr
+Total lifetime cost over 50 years: $2053713337.1553776
+Total power consumption: 8.137579421753621kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 Steel pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $707200.0
+Total operating cost: $4680.909776021645/hr
+Total lifetime cost over 50 years: $2050945681.8974805
+Total power consumption: 8.126579472259799kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 Steel pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $722200.0
+Total operating cost: $4676.263397355454/hr
+Total lifetime cost over 50 years: $2048925568.0416887
+Total power consumption: 8.118512842630997kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 PVC pipe with Discount heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $673040.0
+Total operating cost: $4684.832536711597/hr
+Total lifetime cost over 50 years: $2052629691.0796795
+Total power consumption: 8.133389820679854kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 PVC pipe with Standard heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $680540.0
+Total operating cost: $4678.496565803156/hr
+Total lifetime cost over 50 years: $2049862035.8217824
+Total power consumption: 8.122389871186035kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+
+----------------------------------------------------------------------------------------------
+Using OD of 6 inch schedule 80 PVC pipe with High Efficiency heat exchanger
+Total length of pipe: 2666.0m
+Total capital cost: $695540.0
+Total operating cost: $4673.850187136965/hr
+Total lifetime cost over 50 years: $2047841921.9659908
+Total power consumption: 8.114323241557232kW
+Section 1 uses 825.0m of pipe with the 80/20 1750RPM pump
+Section 2 uses 446.0m of pipe with the 65/30 3500RPM pump
+Section 3 uses 858.0m of pipe with the 65/30 3500RPM pump
+Section 4 uses 537.0m of pipe with the 65/30 3500RPM pump
+
+
+

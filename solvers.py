@@ -1,11 +1,13 @@
 import equations
 import pandas
 import pumps
+import pandas as pd
 
+#Error threshold for numerical analysis
 error_threshold = 0.001
 
 #Minimum distance of pipe underground
-x = 2
+x = 5
 
 def solve_section(diameter, roughness, k, p0, p2, z0, z2, adjacent, target, lifetime, debug):
 
@@ -13,7 +15,7 @@ def solve_section(diameter, roughness, k, p0, p2, z0, z2, adjacent, target, life
     length0, y = solve_section0(diameter, roughness, p0, z0, adjacent, debug)
 
     #Calculate length of the second section and the minimum required pump head (diameter, roughness, p2, y, z2, debug)
-    length1, pump_head = solvers.solve_section1(diameter, roughness, p2, y, z2, debug)
+    length1, pump_head = solve_section1(diameter, roughness, p2, y, z2, debug)
 
     #Find total length
     total_length = length0 + length1
@@ -60,7 +62,7 @@ def solve_section(diameter, roughness, k, p0, p2, z0, z2, adjacent, target, life
     if(debug): print("Lifetime cost: ", pump_total_cost, "$")
     if(debug): print("Power: ", pump_power, "kW")
 
-    return total_length, pump_capital_cost, pump_operating_cost, pump_total_cost, selected_pump
+    return total_length, pump_capital_cost, pump_operating_cost, pump_total_cost, pump_power, selected_pump
 
 #Use equation 0 to solve for the length of section 0
 def solve_section0(diameter, roughness, p0, z0, adj, debug):
@@ -111,8 +113,7 @@ def solve_section1(diameter, roughness, p2, y, z2, debug):
 
     return length, pump_head
 
-#Given a pump head, find the pump that 
-
+#Find properties of a given combination of pump
 def pipe_properties(OD, schedule, material):
 
     #Declare properly scoped variables
